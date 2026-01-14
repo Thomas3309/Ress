@@ -1,0 +1,215 @@
+███████████████████████████████████████████████
+█                                             █
+█   ██████╗ ███████╗███████╗███████╗          █
+█   ██╔══██╗██╔════╝██╔════╝██╔════╝          █
+█   ██████╔╝█████╗  ███████╗███████╗          █
+█   ██╔══██╗██╔══╝  ╚════██║╚════██║          █
+█   ██║  ██║███████╗███████║███████║          █
+█   ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝          █
+█                                             █
+█        Seu painel util • por Thomas         █
+█                                             █
+███████████████████████████████████████████████
+
+
+	Bem vindo ao Ress!!
+
+📘 Documentação – RESS (Seu Painel Útil)
+
+O RESS é um painel utilitário em Batch (CMD) desenvolvido por Thomas, que centraliza diversas ferramentas do Windows em um único menu interativo.
+Ele permite monitorar o sistema, gerenciar rede, realizar limpezas, acessar ferramentas nativas e gerar relatórios do computador.
+
+
+	Thomas GitHub:
+https://github.com/Thomas3309?tab=overview&from=2026-01-01&to=2026-01-13
+
+
+
+
+Explicação de cada função:
+
+
+
+
+🏠 Menu Principal
+
+É a tela inicial do programa.
+Nela, o usuário escolhe o que deseja fazer digitando um número no teclado.
+
+As opções são:
+
+Rede e Internet
+
+Informações do Computador
+
+Limpeza e Manutenção
+
+Ferramentas do Windows
+
+Relatório do Sistema
+
+Utilidades do Dia a Dia
+
+Monitoramento em Tempo Real
+
+Sair do programa
+
+
+
+🌐 Rede e Internet
+
+Essa parte serve para ver e testar a conexão com a internet.
+
+Opções:
+
+[1] Mostrar IPv4
+Mostra o endereço IP do computador.
+
+[2] Informações completas
+Mostra todos os detalhes da rede, como IP, DNS e adaptadores.
+
+[3] Testar conexão
+Verifica se a internet está funcionando, enviando testes para o Google.
+
+[4] Limpar cache DNS
+Ajuda a resolver problemas de internet limpando dados antigos.
+
+[5] Conexões ativas
+Mostra quais conexões estão abertas no computador.
+
+[6] Status do Wi-Fi
+Mostra informações do Wi-Fi, como sinal e rede conectada.
+
+[0] Voltar
+Volta para o menu principal.
+
+
+
+🖥️ Informações do Computador
+
+Mostra dados importantes do computador, como:
+
+Nome do usuário
+
+Nome do PC
+
+Versão do Windows
+
+Processador
+
+Memória RAM
+
+Placa de vídeo
+
+Espaço do disco
+
+Serve para saber rapidamente as características da máquina.
+
+
+
+🧹 Limpeza e Manutenção
+
+Usada para limpar arquivos que não são mais necessários.
+
+Opções:
+
+[1] Temporários do usuário
+Apaga arquivos temporários criados por programas.
+
+[2] Temporários do Windows
+Remove arquivos temporários do próprio sistema.
+
+[3] Limpar DNS
+Limpa informações antigas da internet.
+
+[4] Limpar lixeira
+Apaga tudo que está na lixeira.
+
+⚠️ Esses arquivos não podem ser recuperados depois.
+
+
+
+🛠️ Ferramentas do Windows
+
+Atalhos rápidos para ferramentas do próprio Windows.
+
+Opções:
+
+[1] Painel de Controle
+Abre o painel clássico do Windows.
+
+[2] Configurações
+Abre as configurações modernas do Windows.
+
+[3] Gerenciador de Tarefas
+Mostra programas abertos e uso do computador.
+
+[4] Prompt de Comando
+Abre uma nova janela do CMD.
+
+[5] Explorador de Arquivos
+Abre a pasta de arquivos do Windows.
+
+[6] Informações do Sistema
+Mostra detalhes completos do computador.
+
+
+
+⚡ Utilidades do Dia a Dia
+
+Ferramentas úteis para o uso comum.
+
+Opções:
+
+[1] Status da bateria
+Cria um relatório mostrando a saúde da bateria.
+
+[2] Antivírus ativo
+Mostra quais antivírus estão instalados e funcionando.
+
+[3] Erros recentes
+Mostra os últimos erros que aconteceram no sistema.
+
+
+
+📊 Monitoramento em Tempo Real
+
+Mostra informações do computador ao vivo, atualizando a cada 3 segundos.
+
+Ele mostra:
+
+Uso do processador
+
+Uso da memória RAM
+
+Espaço do disco
+
+Dados de rede
+
+Para sair dessa tela, basta apertar a tecla Q.
+
+
+
+📄 Relatório do Sistema
+
+Cria um arquivo de texto com várias informações do computador, como:
+
+Dados do Windows
+
+Informações de rede
+
+Processador
+
+Discos
+
+Esse arquivo pode ser usado para suporte técnico ou para guardar informações do PC.
+
+
+
+❌ Sair
+
+Fecha o programa.
+
+
+
+Mais atualizações serão enviadas ao site do GitHub ;)
